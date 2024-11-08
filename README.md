@@ -1,2 +1,2 @@
 # WWU-CSCI497P
-Introduction to Computer Vision (self-learning program)
+https://facultyweb.cs.wwu.edu/~wehrwes/courses/csci497p_20f/
